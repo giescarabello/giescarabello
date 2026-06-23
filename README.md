@@ -1,11 +1,6 @@
 # 👩🏻‍💻 Giovanna Escarabello
 
----
-
-### 💻 Sobre mim
-
 Me chamo Giovanna Escarabello, sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC e apaixonada por tecnologia. 
-
 Atualmente, meu foco principal está no estudo de lógica de programação e **estruturas de dados** (como vetores e matrizes) utilizando **Java**, aplicando a teoria diretamente no desenvolvimento de projetos práticos.
 
 ---
