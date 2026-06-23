@@ -2,11 +2,13 @@
 
 ### 💻 Sobre mim
 
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas**.
-- 🚀 Atualmente focada no estudo de lógica de programação e estruturas de dados (como vetores e matrizes) utilizando **Java**.
-- 🛠️ Desenvolvendo projetos práticos para aplicar conceitos de programação e arquitetura de software.
+Me chamo Giovanna Escarabello e sou apaixonada por tecnologia e pelo universo do desenvolvimento de software. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC, onde busco consolidar minha base técnica e aprender a construir soluções eficientes. 
 
----
+No momento, meu foco principal está no aprofundamento em lógica de programação e no estudo de **estruturas de dados**, como vetores e matrizes, utilizando a linguagem **Java**. Gosto de aplicar os conceitos teóricos criando e desenvolvendo projetos práticos, o que me ajuda a compreender melhor a arquitetura de software e as boas práticas de código.
+
+    
+### 🤖 Linguagens e Tecnologias
+
 
 <img 
     align="left" 
